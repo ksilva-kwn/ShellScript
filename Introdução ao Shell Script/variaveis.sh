@@ -4,7 +4,7 @@ NOME="Kawan"
 echo "$NOME"
 echo "------------------------------------------"
 NOME="Kawan
-Japa"
+Gabriel"
 echo $NOME
 echo "------------------------------------------"
 echo "$NOME"
