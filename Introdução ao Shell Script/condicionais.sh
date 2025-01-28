@@ -28,3 +28,5 @@ else
         echo "Os números não são iguais."
 
 fi
+
+[ "$VAR_3" != "$VAR_4" ] && echo "Os números não são iguais."
